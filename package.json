@@ -1,0 +1,26 @@
+{
+  "name": "dproxy.js",
+  "version": "1.0.0",
+  "description": "dynamic proxy your object",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apporoad/dproxy.js.git"
+  },
+  "keywords": [
+    "dynamic",
+    "proxy"
+  ],
+  "author": "apporoad",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/apporoad/dproxy.js/issues"
+  },
+  "homepage": "https://github.com/apporoad/dproxy.js#readme"
+}
